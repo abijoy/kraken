@@ -1,4 +1,4 @@
-# Collaborative AI [Team Kraken]
+# Collaborative AI [Team Kraken Edited]
 
 ## About
 Welcome to CollaborativeAi.Software, where we've taken the world of AI to new heights. We've been working tirelessly to bring you the most advanced, user-friendly platform that seamlessly integrates with the powerful OpenAI API, Gemini, and Claude. 
